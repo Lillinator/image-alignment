@@ -64,4 +64,3 @@ export default apiInitializer((api) => {
   translations.composer.image_grid_text = settings.image_grid_text;
   
   });
-In script tags, the only way to import other JS modules was using the require() syntax. While that will still 
