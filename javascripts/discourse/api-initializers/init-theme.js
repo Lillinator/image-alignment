@@ -13,7 +13,7 @@ export default apiInitializer((api) => {
           id: "image_grid_button",
           group: "extras",
           icon: "compress",
-          perform: e => e.applySurround('[grid]\n\n', '\n\n[/grid]', 'image_grid_text')
+          perform: e => e.applySurround('[grid]\n', '\n[/grid]', 'image_grid_text')
       });
   });
   api.onToolbarCreate(toolbar => {
