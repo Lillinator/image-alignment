@@ -1,33 +1,32 @@
-align_left_button:
+align_image_left_button:
   default: "align image left of text"
   description:
     en: "Enter the text for the title of the button in the composer."
     
-align_left_text:
+align_image_left_text:
   default: "-uploaded image goes here-"
   description:
     en: "Enter the placeholder text that appears in the composer after the user clicks the button."
     
-align_right_button:
+align_image_right_button:
   default: "align image right of text"
   description:
     en: "Enter the text for the title of the button in the composer."
     
-align_right_text:
+align_image_right_text:
   default: "-uploaded image goes here-"
   description:
     en: "Enter the placeholder text that appears in the composer after the user clicks the button."
 
-align_center_button:
+align_image_center_button:
   default: "align image center of post"
   description:
     en: "Enter the text for the title of the button in the composer."
     
-align_center_text:
+align_image_center_text:
   default: "-uploaded image goes here-"
   description:
     en: "Enter the placeholder text that appears in the composer after the user clicks the button."
-    
     
 image_grid_button:
   default: "make muliple images grid"
@@ -44,4 +43,4 @@ Svg_icons:
   list_type: 'compact'
   default: 'fa-angle-left|fa-angle-right|fa-arrows-alt-h|fa-compress'
   description: 
-    en: "Include FontAwesome 5 icon classes for each icon used in the list."
+    en: "Include FontAwesome 6 icon classes for each icon used in the list."
