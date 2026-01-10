@@ -1,1 +1,3 @@
-# Deprecated - DO NOT USE
+# Discourse Image Alignment
+
+Deprecated
