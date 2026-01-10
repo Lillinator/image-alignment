@@ -27,17 +27,6 @@ align_center_text:
   default: "-uploaded image goes here-"
   description:
     en: "Enter the placeholder text that appears in the composer after the user clicks the button."
-    
-    
-image_grid_button:
-  default: "make muliple images grid"
-  description:
-    en: "Enter the text for the title of the button in the composer."
-    
-image_grid_text:
-  default: "-uploaded images go here-"
-  description:
-    en: "Enter the placeholder text that appears in the composer after the user clicks the button."
 
 Svg_icons: 
   type: 'list'
