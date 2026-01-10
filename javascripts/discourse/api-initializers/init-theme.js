@@ -10,14 +10,6 @@ export default apiInitializer((api) => {
 
   api.onToolbarCreate(toolbar => {
       toolbar.addButton({
-          id: "image_grid_button",
-          group: "extras",
-          icon: "compress",
-          perform: e => e.applySurround('[grid]\n\n', '\n\n[/grid]', 'image_grid_text')
-      });
-  });
-  api.onToolbarCreate(toolbar => {
-      toolbar.addButton({
           id: "align_left_button",
           group: "extras",
           icon: "angle-left",
@@ -60,7 +52,4 @@ export default apiInitializer((api) => {
   translations.composer.align_center_button_title = settings.align_center_button;
   translations.composer.align_center_text = settings.align_center_text;
 
-  translations.composer.image_grid_button_title = settings.image_grid_button;
-  translations.composer.image_grid_text = settings.image_grid_text;
-  
   });
