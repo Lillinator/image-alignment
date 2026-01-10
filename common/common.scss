@@ -3,13 +3,14 @@
 [data-theme-image="left"] {
     float: left;
     img {
-      padding: 10px;
+      margin: 0 1em 0 0;
+      border-radius: 50%;  
     }
 }
 
 [data-theme-image="right"] {
     float: right;
     img {
-      padding: 10px;
+      margin: 0em 0em 0em 1em;
     }
 }
