@@ -1,3 +1,3 @@
 # Discourse Image Alignment
 
-Deprecated
+Deprecated but still works.  Adds image-text alignment buttons to Discourse composer toolbar.
